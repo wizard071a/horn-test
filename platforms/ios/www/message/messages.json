@@ -1,0 +1,20 @@
+[
+  {
+    "title" : "Alert",
+    "message" : "Alert",
+    "styles" : "message-button alert",
+    "phones" : ["0634755095"]
+  },
+  {
+    "title" : "Warning",
+    "message" : "Warning",
+    "styles" : "message-button warning",
+    "phones" : ["0634755095"]
+  },
+  {
+    "title" : "Notice",
+    "message" : "Notice",
+    "styles" : "message-button notice",
+    "phones" : ["0634755095"]
+  }
+]

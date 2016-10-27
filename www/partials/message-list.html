@@ -1,0 +1,13 @@
+<div class="scrollable">
+    <div class="scrollable-content">
+        <div class="list-group text-center">
+            <div ng-repeat="message in messages" class="{{message.styles}}"
+                 ng-click="sendSms({message: message.message, numbers: message.phones});">
+                <div class="message-image"></div>
+                <span class="list-group-item">
+                    {{message.title}}
+                </span>
+            </div>
+        </div>
+    </div>
+</div>

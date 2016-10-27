@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.kstt.test1"
+        },
+        "com.cordova.plugins.sms": {
+            "PACKAGE_NAME": "com.kstt.test1"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.kstt.test1"
+        }
+    },
+    "dependent_plugins": {}
+}
